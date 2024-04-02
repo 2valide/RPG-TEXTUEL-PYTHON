@@ -1,6 +1,6 @@
 # import simpleaudio as sa
 from entities import *
-from colorama import Fore, Back, Style
+# from colorama import Fore, Back, Style
 # from items import *
 
 # liste bidimensionnelle pour la map

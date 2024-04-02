@@ -1,6 +1,6 @@
 import random
 import time
-from colorama import Fore, Back, Style
+# from colorama import Fore, Back, Style
 from items import *
 """   
     name, max_hp, hp, atk, defense, xp, xp_until_lvlup, level
