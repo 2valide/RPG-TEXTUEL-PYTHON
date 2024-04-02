@@ -46,7 +46,8 @@ Ajoutez ici des captures d'écran de votre application pour illustrer son foncti
 *Description de la capture d'écran 2.*
 
 ## Auteur
-
+  
 - @2valide
+- @LDNCQ
 
 
