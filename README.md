@@ -16,22 +16,22 @@ Ce projet est un RPG textuel développé en Python, où vous incarnez un personn
 ## Installation
 
 1. Clonez ce dépôt sur votre machine locale.
-  ```
+    ```
 git clone https://github.com/votre_nom/projet-rpg-textuel.git
-  ```
+    ```
 3. Assurez-vous d'avoir Python installé sur votre système.
 4. Et Colorama.
-   ```
+    ```
 pip install colorama
-   ```
+    ```
 5. Naviguez vers le répertoire du projet.
-  ```
+    ```
 cd projet-rpg-textuel
-  ```
+    ```
 6. Lancez le jeu en exécutant le fichier principal.
-  ```
+    ```
 python main.py
-  ```
+    ```
 
 ## Utilisation
 
