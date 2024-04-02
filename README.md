@@ -24,11 +24,11 @@ git clone https://github.com/votre_nom/projet-rpg-textuel.git
    ```
 pip install colorama
    ```
-6. Naviguez vers le répertoire du projet.
+5. Naviguez vers le répertoire du projet.
   ```
 cd projet-rpg-textuel
   ```
-5. Lancez le jeu en exécutant le fichier principal.
+6. Lancez le jeu en exécutant le fichier principal.
   ```
 python main.py
   ```
