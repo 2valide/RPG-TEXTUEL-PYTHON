@@ -17,7 +17,7 @@ Ce projet est un RPG textuel développé en Python, où vous incarnez un personn
 
 1. Clonez ce dépôt sur votre machine locale:
 ```
-git clone https://github.com/votre_nom/projet-rpg-textuel.git
+git clone https://github.com/2valide/RPG-TEXTUEL-PYTHON.git
 ```
 2. Assurez-vous d'avoir Python installé sur votre système.
 3. Et Colorama:
