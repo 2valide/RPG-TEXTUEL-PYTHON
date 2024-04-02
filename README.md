@@ -11,7 +11,7 @@ Ce projet est un RPG textuel développé en Python, où vous incarnez un personn
 
 ## Exemples d'images
 
-![](images/aceuille.png)
+![](images/Preciew_Github/aceuille.png)
 
 ## Installation
 
